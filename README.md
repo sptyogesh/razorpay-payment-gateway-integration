@@ -1,4 +1,4 @@
-# 💳 Razorpay Full-Stack Integration Showcase
+# 💳 Razorpay Full-Stack Integration
 
 This repository demonstrates a complete, secure, and production-ready integration of the **Razorpay Payment Gateway**. It consists of a modern **React (Vite)** frontend and a robust **NestJS** backend, showcasing best practices for processing online payments, verifying signatures, and handling webhooks securely.
 
